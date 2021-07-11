@@ -1,0 +1,14 @@
+{
+  "AppVersion": "1.0",
+  "Title": "Random walk",
+  "Thumbnail": "lively_t.png",
+  "Preview": "lively_p.gif",
+  "Desc": "Mouse following random walker",
+  "Author": "Ulf Birk-Hansen",
+  "License": null,
+  "Contact": "https://github.com/Culf-B",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": null,
+  "IsAbsolutePath": false
+}
