@@ -5,7 +5,7 @@
   "Preview": "lively_p.gif",
   "Desc": "Mouse following random walker",
   "Author": "Culf",
-  "License": MIT,
+  "License": "MIT",
   "Contact": "https://github.com/Culf-B",
   "Type": 1,
   "FileName": "index.html",
